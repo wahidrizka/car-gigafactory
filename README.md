@@ -5,7 +5,7 @@ The Car Gigafactory simulation includes:
 - Type F (Petrol-based sedan): Powered by a petrol engine with an internal combustion mechanism.
 - Type E (Electric-based sedan): Powered by an electric motor, using a rechargeable battery as the energy source.
 
-With a command-line interface, users can select and interact with different car types to simulate various actions, such as accelerating, braking, and refiling. This simulation helps demonstrate differences between conventional and electric vehicle systems, making it useful for educational purposes or as a foundational project for more complex automotive simulations.
+With a command-line interface, users can select and interact with different car types to simulate various actions, such as accelerating, braking, and refueling. This simulation helps demonstrate differences between conventional and electric vehicle systems, making it useful for educational purposes or as a foundational project for more complex automotive simulations.
 
 ### Features:
 - **Vehicle Abstraction**: A generic ``Vehicle`` class provides a base for different car types.
