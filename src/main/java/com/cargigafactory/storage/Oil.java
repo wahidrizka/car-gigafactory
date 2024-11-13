@@ -7,7 +7,7 @@ public class Oil {
     /**
      * Fills the storage with oil.
      */
-    public void fill() {
+    public void fillOil() {
         System.out.println("Filling oil...");
     }
 }
